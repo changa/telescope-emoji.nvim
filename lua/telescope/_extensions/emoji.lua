@@ -18,7 +18,7 @@ local function search(opts)
     separator = " ",
     items = {
       { width = 40 },
-      { width = 18 },
+      { width = 60 },
       { remaining = true },
     },
   })
